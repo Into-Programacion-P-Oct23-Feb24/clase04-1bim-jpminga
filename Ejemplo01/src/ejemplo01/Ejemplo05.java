@@ -26,6 +26,10 @@ public class Ejemplo05 {
         
         System.out.println(nombreEstudiante+"\n"+"\n"+apellidoEstudiante+ "\n"+
                 "\n"+ nacimiento); */
+        /*
+        \t significa que hay un espacio, equivale a presionar "tab” en el teclado
+        \n termina una línea y comienza otra más abajo a partir de ahí
+        */
         System.out.println(nombreEstudiante+"\t"+apellidoEstudiante);   
         System.out.println(nombreEstudiante+"\n\t"+apellidoEstudiante);   
     }
